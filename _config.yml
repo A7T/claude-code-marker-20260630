@@ -1,0 +1,16 @@
+title: Claude Code 中转标记事实核查
+description: 对 Claude Code 内置中转站列表、Base64+XOR 混淆和日期提示词标记逻辑的静态分析报告
+url: "https://a7t.ink"
+baseurl: "/claude-code-marker-20260630"
+theme: jekyll-theme-primer
+lang: zh-CN
+
+author:
+  name: A7T
+  email: a7t@4rt.top
+
+github:
+  is_project_page: true
+
+plugins:
+  - jekyll-seo-tag

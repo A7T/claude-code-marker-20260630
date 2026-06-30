@@ -1,0 +1,8 @@
+host	timezone	marker_text	known	labKw	cnTZ
+	UTC	Today's date is 2026-06-30.	False	False	False
+api.anthropic.com	Asia/Shanghai	Today's date is 2026-06-30.	False	False	False
+foo.example	Asia/Shanghai	Today's date is 2026/06/30.	False	False	True
+packyapi.com	UTC	Today’s date is 2026-06-30.	True	False	False
+sub.packyapi.com	Asia/Shanghai	Today’s date is 2026/06/30.	True	False	True
+moonshot-proxy.example	UTC	Todayʼs date is 2026-06-30.	False	True	False
+moonshot.ai	Asia/Shanghai	Todayʹs date is 2026/06/30.	True	True	True
